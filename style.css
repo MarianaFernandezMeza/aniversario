@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#94d6f7;}
+
+p{
+  color:#f5903d
+  font-size: 80px;
+  font-family:'Courier New', Courier, monospace;  
+  margin:30px;
+}
+.conten1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.conten1 img{
+  height: 100px;
+}
+
+  
